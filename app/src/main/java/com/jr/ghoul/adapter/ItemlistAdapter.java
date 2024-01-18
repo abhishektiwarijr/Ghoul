@@ -23,9 +23,7 @@ import java.util.List;
 
 public class ItemlistAdapter extends RecyclerView.Adapter<ItemlistAdapter.ViewHolder> {
     private List<AppInfo> appInfos = new ArrayList();
-    /* access modifiers changed from: private */
     public Context context;
-    /* access modifiers changed from: private */
     public OnItemClickListener onItemClickListener;
     private RecycledViewPool viewPool = new RecycledViewPool();
 

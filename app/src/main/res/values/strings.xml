@@ -27,14 +27,14 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_found_count">&lt;b&gt;%1$d China Apps&lt;/b&gt; Found</string>
+    <string name="app_found_count">&lt;b&gt;%1$d Apps&lt;/b&gt; Found</string>
     <string name="app_name">Ghoul</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="congratulations_description_txt">No China Apps Found in your phone. Cool…!</string>
+    <string name="congratulations_description_txt">No Apps Found in your phone. Cool…!</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="clickscantext">Click on \"&lt;b&gt;Scan Apps\"&lt;/b&gt; to find installed China Apps in your phone.</string>
+    <string name="clickscantext">Click on \"&lt;b&gt;Scan Apps\"&lt;/b&gt; to find installed Specific Apps in your phone.</string>
     <string name="congratulation">Congratulations</string>
     <string name="contact_us">Contact us</string>
     <string name="contact_us_url">https://myfutureacademia.com/</string>
@@ -48,14 +48,9 @@
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="privacy_policy_url">https://myfutureacademia.com</string>
-    <string name="rate_us">Rate us</string>
     <string name="rescan">Re-scan Now</string>
     <string name="scannow">Scan now</string>
     <string name="scan_apps">Scan apps</string>
     <string name="search_menu_title">Search</string>
-    <string name="share">Share</string>
-    <string name="sharethisapp">Share This App</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

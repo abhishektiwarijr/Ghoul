@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical">
 
     <RelativeLayout
@@ -100,6 +101,7 @@
             android:layout_centerInParent="true"
             android:gravity="center"
             android:orientation="vertical"
+            tools:visibility="visible"
             android:visibility="gone">
 
             <LinearLayout
@@ -130,32 +132,6 @@
                     android:textColor="@color/white" />
             </LinearLayout>
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:gravity="center"
-                android:orientation="horizontal">
-
-                <androidx.appcompat.widget.AppCompatTextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:gravity="center_vertical"
-                    android:text="@string/sharethisapp"
-                    android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@color/white" />
-
-                <androidx.appcompat.widget.AppCompatImageView
-                    android:id="@+id/shareIcon"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_marginStart="15dp"
-                    android:layout_marginLeft="15dp"
-                    android:padding="5dp"
-                    android:src="@drawable/ic_share_24" />
-            </LinearLayout>
         </RelativeLayout>
 
         <ProgressBar
